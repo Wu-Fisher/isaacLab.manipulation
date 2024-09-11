@@ -1,0 +1,3 @@
+[submodule "isaacLab/manipulation/algorithms/rsl_rl"]
+	path = isaacLab/manipulation/algorithms/rsl_rl
+	url = git@github.com:leggedrobotics/rsl_rl.git
